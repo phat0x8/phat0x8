@@ -5,14 +5,12 @@
 ### 🛡️ Information Security Engineer | DFIR • Cyber Threat Intelligence • Binary & Web Application Security
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2EA44F&center=true&vCenter=true&width=780&lines=Information+Assurance+%40+FPT+University+HCMC;Digital+Forensics+%26+Incident+Response+(DFIR);Cyber+Threat+Intelligence+(MITRE+ATT%26CK+%2F+SecBERT);Binary+Reverse+Engineering+%26+AI+Security+Auditing;Web+Application+Security+%26+OWASP+Top+10+Hardening" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2EA44F&center=true&vCenter=true&width=780&lines=Information+Assurance+%40+FPT+University+HCMC;Digital+Forensics+%26+Incident+Response+(DFIR);Cyber+Threat+Intelligence+(MITRE+ATT%26CK+%2F+SecBERT);Binary+Reverse+Engineering+%26+AI+Security+Auditing;Web+Application+Security+%26+OWASP+Top+10+Hardening" alt="Typing SVG" />
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tan%20Phat%20Nguyen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyen-tan-phat-6a4860252/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tan%20Phat%20Nguyen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tan-phat-nguyen-6a4860252/)
 [![GitHub](https://img.shields.io/badge/GitHub-phat0x8-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phat0x8)
-[![Location](https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City%2C%20Vietnam-EA4335?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+![Location](https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City%2C%20Vietnam-EA4335?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 
