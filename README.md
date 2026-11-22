@@ -47,6 +47,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C_%2F_x86__64-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/ESP8266_IoT_Firmware-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="ESP8266 Firmware" />
   <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
@@ -68,6 +69,7 @@
 | 🕵️‍♂️ [**DFIR-Forensics-Casebook**](https://github.com/phat0x8/DFIR-Forensics-Casebook) | **Digital Forensics & Incident Response (DFIR)** | 15 end-to-end forensic investigations (**285 verified artifacts**) on **Kali Linux `2025.4`/`2026.3`** covering the **NIST CFReDS Data Leakage** case, TSK, Registry, `$UsnJrnl`, `.ost` Email & Android SQLite. |
 | ✈️ [**GetApps-Travel-Platform**](https://github.com/phat0x8/GetApps-Travel-Platform) | **Web Application Security & DevSecOps (OWASP Top 10)** | Production travel social network & multi-day itinerary platform ([ges.id.vn](https://ges.id.vn)) with **26 SQLAlchemy tables**, proxy-aware **DDoS/Brute-Force Rate Limiting** (`Flask-Limiter`), **SOC Security Audit Dashboard** (`/admin/security-logs`), Bleach XSS/CSP, SSRF-safe GeoCheck, Docker & Cloudflare Zero Trust Tunnel (**151/151 Pytest PASS**). |
 | 🧠 [**Secbert-cda-attack-classification**](https://github.com/phat0x8/Secbert-cda-attack-classification) | **Cyber Threat Intelligence (CTI)** | Automated multi-label **MITRE ATT&CK** technique classification from unstructured threat reports using **SecBERT** and Contextual Data Augmentation (CDA) in PyTorch. |
+| ⏱️ [**Smart_Digital_Clock_with_Arduino**](https://github.com/phat0x8/Smart_Digital_Clock_with_Arduino) | **Embedded Systems & IoT Firmware Resilience** | Fault-tolerant **ESP8266 NodeMCU** firmware (`1,053 LOC` in C/C++) integrating `MAX30102` PPG heart rate, `DHT11`, `DS1302` RTC & `EEPROM` with fail-safe offline recovery, hysteresis alerting, `CWE-798`/`CWE-125` hardening, and 14-channel **Blynk Cloud** telemetry (IEEE Report). |
 | 🌐 [**mini_blog_lab01**](https://github.com/phat0x8/mini_blog_lab01) | **Application Security / Secure Coding** | Flask web application engineered with defense-in-depth controls: CSRF protection (`Flask-WTF`), Werkzeug password hashing, session management, and route-level `403` authorization checks. |
 
 ---
