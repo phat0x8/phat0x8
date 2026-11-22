@@ -2,11 +2,11 @@
 
 # Hi there, I'm Tan Phat Nguyen (`@phat0x8`) 👋
 
-### 🛡️ Information Security Engineer | DFIR • Cyber Threat Intelligence • Binary & AI Security
+### 🛡️ Information Security Engineer | DFIR • Cyber Threat Intelligence • Binary & Web Application Security
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2EA44F&center=true&vCenter=true&width=780&lines=Information+Assurance+%40+FPT+University+HCMC;Digital+Forensics+%26+Incident+Response+(DFIR);Cyber+Threat+Intelligence+(MITRE+ATT%26CK+%2F+SecBERT);Binary+Reverse+Engineering+%26+AI+Security+Auditing" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2EA44F&center=true&vCenter=true&width=780&lines=Information+Assurance+%40+FPT+University+HCMC;Digital+Forensics+%26+Incident+Response+(DFIR);Cyber+Threat+Intelligence+(MITRE+ATT%26CK+%2F+SecBERT);Binary+Reverse+Engineering+%26+AI+Security+Auditing;Web+Application+Security+%26+OWASP+Top+10+Hardening" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,9 +21,9 @@
 ## 🚀 About Me
 
 - 🎓 **Education:** Senior Information Assurance (Cybersecurity) student at **FPT University** (Ho Chi Minh City, Vietnam).
-- 🕵️‍♂️ **Current Focus:** Digital Forensics & Incident Response (**DFIR**), Automated Cyber Threat Intelligence (**CTI / MITRE ATT&CK**), and **Binary Reverse Engineering / LLM Security Auditing**.
-- 🔬 **Research & Engineering:** Passionate about bridging low-level systems security (`x86_64` stripped PE binaries, file system internals `FAT12`/`NTFS`, Windows Registry/Event forensics) with modern AI-driven security automation (**SecBERT**, differential binary mutation benchmarks).
-- 💻 **Forensic Lab Environment:** Daily practitioner on **Kali Linux Rolling (`2025.4` / `2026.3`)** and isolated Windows/Linux forensic virtual machines on **VMware Workstation Pro**.
+- 🕵️‍♂️ **Current Focus:** Digital Forensics & Incident Response (**DFIR**), Automated Cyber Threat Intelligence (**CTI / MITRE ATT&CK**), **Binary Reverse Engineering / LLM Security Auditing**, and **Web Application Security (OWASP Top 10)**.
+- 🔬 **Research & Engineering:** Passionate about bridging low-level systems security (`x86_64` stripped PE binaries, file system internals `FAT12`/`NTFS`, Windows Registry/Event forensics) with modern AI-driven security automation (**SecBERT**, differential binary mutation benchmarks) and defense-in-depth web architecture.
+- 💻 **Forensic & DevSecOps Lab Environment:** Daily practitioner on **Kali Linux Rolling (`2025.4` / `2026.3`)**, Dockerized Linux servers, Cloudflare Zero Trust Tunnels, and isolated Windows/Linux forensic virtual machines on **VMware Workstation Pro**.
 
 ---
 
@@ -40,9 +40,10 @@
   <img src="https://img.shields.io/badge/FTK_Imager-005A9E?style=for-the-badge&logo=files&logoColor=white" alt="FTK Imager" />
   <img src="https://img.shields.io/badge/Hashcat_%2F_Mimikatz-333333?style=for-the-badge&logo=gnubash&logoColor=white" alt="Hashcat" />
   <img src="https://img.shields.io/badge/MITRE_ATT%26CK-C8102E?style=for-the-badge&logo=security&logoColor=white" alt="MITRE ATT&CK" />
+  <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP Top 10" />
 </p>
 
-### 💻 Languages, Frameworks & Data Engineering
+### 💻 Languages, Frameworks & DevSecOps
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C_%2F_x86__64-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -50,6 +51,9 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/SQLite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Cloudflare_Zero_Trust-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
@@ -62,6 +66,7 @@
 | :--- | :--- | :--- |
 | 🔬 [**IAM302t_SCHR_Bench**](https://github.com/phat0x8/IAM302t_SCHR_Bench) | **Binary Reverse Engineering & AI Security** | Differential mutation benchmark evaluating security-critical hallucinations in LLM-assisted binary decompilation across 80 stripped `x86_64` PE executables and 1,020 evaluations (Springer LNICST). |
 | 🕵️‍♂️ [**DFIR-Forensics-Casebook**](https://github.com/phat0x8/DFIR-Forensics-Casebook) | **Digital Forensics & Incident Response (DFIR)** | 15 end-to-end forensic investigations (**285 verified artifacts**) on **Kali Linux `2025.4`/`2026.3`** covering the **NIST CFReDS Data Leakage** case, TSK, Registry, `$UsnJrnl`, `.ost` Email & Android SQLite. |
+| ✈️ [**GetApps-Travel-Platform**](https://github.com/phat0x8/GetApps-Travel-Platform) | **Web Application Security & DevSecOps (OWASP Top 10)** | Production travel social network & multi-day itinerary platform ([ges.id.vn](https://ges.id.vn)) with **26 SQLAlchemy tables**, proxy-aware **DDoS/Brute-Force Rate Limiting** (`Flask-Limiter`), **SOC Security Audit Dashboard** (`/admin/security-logs`), Bleach XSS/CSP, SSRF-safe GeoCheck, Docker & Cloudflare Zero Trust Tunnel (**151/151 Pytest PASS**). |
 | 🧠 [**Secbert-cda-attack-classification**](https://github.com/phat0x8/Secbert-cda-attack-classification) | **Cyber Threat Intelligence (CTI)** | Automated multi-label **MITRE ATT&CK** technique classification from unstructured threat reports using **SecBERT** and Contextual Data Augmentation (CDA) in PyTorch. |
 | 🌐 [**mini_blog_lab01**](https://github.com/phat0x8/mini_blog_lab01) | **Application Security / Secure Coding** | Flask web application engineered with defense-in-depth controls: CSRF protection (`Flask-WTF`), Werkzeug password hashing, session management, and route-level `403` authorization checks. |
 
