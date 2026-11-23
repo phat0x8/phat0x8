@@ -1,5 +1,3 @@
-  <a href="https://phat0x8.nt-portfolio.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-phat0x8.nt--portfolio.workers.dev-10B981?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portfolio" /></a>
-
 <div align="center">
 
 # Hi there, I'm Tan Phat Nguyen (`@phat0x8`) 👋
@@ -10,6 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2EA44F&center=true&vCenter=true&width=780&lines=Information+Assurance+%40+FPT+University+HCMC;Enterprise+IT+Support+%26+Junior+SysAdmin+(Nov+2025+--+Present);Digital+Forensics+%26+Incident+Response+(DFIR);Cyber+Threat+Intelligence+(MITRE+ATT%26CK+%2F+SecBERT);Binary+Reverse+Engineering+%26+AI+Security+Auditing;Web+Application+Security+%26+OWASP+Top+10+Hardening" alt="Typing SVG" />
 </p>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-phat0x8.nt--portfolio.workers.dev-10B981?style=for-the-badge&logo=cloudflare&logoColor=white)](https://phat0x8.nt-portfolio.workers.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tan%20Phat%20Nguyen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tan-phat-nguyen-6a4860252/)
 [![GitHub](https://img.shields.io/badge/GitHub-phat0x8-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phat0x8)
 ![Location](https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City%2C%20Vietnam-EA4335?style=for-the-badge&logo=googlemaps&logoColor=white)
@@ -78,6 +77,7 @@
 
 | Repository | Security Domain | Technical Highlights |
 | :--- | :--- | :--- |
+| 🛡️ [**phat0x8-portfolio**](https://github.com/phat0x8/phat0x8-portfolio) | **Cybersecurity & Operations Portfolio (Cloudflare Workers)** | Live bilingual (**EN/VI**) Cyber Emerald-Teal HUD portfolio ([phat0x8.nt-portfolio.workers.dev](https://phat0x8.nt-portfolio.workers.dev/)) built with **Astro 5** & **Cloudflare Workers Static Assets** featuring sanitized DFIR/SysAdmin RCA casebooks, IEEE ICEEIS 2026 research, live GitHub sync, and Web Audio terminal SFX. |
 | 🏢 [**Enterprise-IT-Operations-Casebook**](https://github.com/phat0x8/Enterprise-IT-Operations-Casebook) | **Enterprise SysAdmin, IT Support & InfoSec Ops** | **Nov 2025 – Present** (100% OPSEC-sanitized) — Multi-site IT operations (**Aug–Nov 2026** detailed logs + **132 archived sessions / 90+ hrs**): Hybrid AD/Entra ID Dual-SID Temp Profile RCA (`56 min` MTTR, `0%` data loss), SQL Server 2022 TCP/IP & ERP T-SQL sync, factory WiFi redesign, company-wide Asset/MAC/License Audit, hardened SOPs & Python/FFmpeg automation (`-80%` storage). |
 | 🔬 [**IAM302t_SCHR_Bench**](https://github.com/phat0x8/IAM302t_SCHR_Bench) | **Binary Reverse Engineering & AI Security** | Differential mutation benchmark evaluating security-critical hallucinations in LLM-assisted binary decompilation across 80 stripped `x86_64` PE executables and 1,020 evaluations (Springer LNICST). |
 | 🕵️‍♂️ [**DFIR-Forensics-Casebook**](https://github.com/phat0x8/DFIR-Forensics-Casebook) | **Digital Forensics & Incident Response (DFIR)** | 15 end-to-end forensic investigations (**285 verified artifacts**) on **Kali Linux `2025.4`/`2026.3`** covering the **NIST CFReDS Data Leakage** case, TSK, Registry, `$UsnJrnl`, `.ost` Email & Android SQLite. |
@@ -91,7 +91,7 @@
 ## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=phat0x8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="phat0x8 GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=phat0x8&show_icons=true&theme=tokyonight&hide_border=true" alt="phat0x8 GitHub Stats" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phat0x8&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
