@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 248" width="100%" height="100%" fill="none">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="900" y2="248" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#080d10"/>
+      <stop offset="55%" stop-color="#0d161c"/>
+      <stop offset="100%" stop-color="#091216"/>
+    </linearGradient>
+    <radialGradient id="emeraldGlow" cx="82%" cy="38%" r="48%">
+      <stop offset="0%" stop-color="#10b981" stop-opacity="0.22"/>
+      <stop offset="55%" stop-color="#14b8a6" stop-opacity="0.07"/>
+      <stop offset="100%" stop-color="#080d10" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="topLeftGlow" cx="14%" cy="0%" r="45%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#080d10" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#34d399"/>
+      <stop offset="55%" stop-color="#2dd4bf"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <linearGradient id="topBorderGrad" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="50%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#14b8a6"/>
+    </linearGradient>
+    <pattern id="hudGrid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#1d323c" stroke-width="0.7" stroke-opacity="0.42"/>
+    </pattern>
+  </defs>
+
+  <!-- Main Frame -->
+  <rect x="1" y="1" width="898" height="246" rx="14" fill="url(#bgGrad)" stroke="#1d323c" stroke-width="1.5"/>
+  <rect x="1" y="1" width="898" height="246" rx="14" fill="url(#hudGrid)"/>
+  <rect x="1" y="1" width="898" height="246" rx="14" fill="url(#emeraldGlow)"/>
+  <rect x="1" y="1" width="898" height="246" rx="14" fill="url(#topLeftGlow)"/>
+
+  <!-- Glowing Top Accent Line -->
+  <path d="M 14 1.5 L 886 1.5" stroke="url(#topBorderGrad)" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Terminal Window Bar -->
+  <rect x="2" y="2" width="896" height="34" rx="12" fill="#060a0d" fill-opacity="0.78"/>
+  <line x1="2" y1="36" x2="898" y2="36" stroke="#1d323c" stroke-width="1"/>
+
+  <circle cx="22" cy="19" r="4" fill="#34d399">
+    <animate attributeName="opacity" values="1;0.35;1" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="34" y="23" fill="#98b4b1" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="11" font-weight="600" letter-spacing="1.2">
+    OPERATOR_DOSSIER // TAN_PHAT_NGUYEN (@PHAT0X8)
+  </text>
+
+  <!-- Right Window Dots / HUD Tag -->
+  <text x="770" y="23" fill="#34d399" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="0.8">
+    SYS: ONLINE
+  </text>
+  <text x="854" y="23" fill="#6c8886" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="12" letter-spacing="3">
+    - □ ×
+  </text>
+
+  <!-- Eyebrow Status Pill -->
+  <rect x="32" y="54" width="388" height="25" rx="12.5" fill="#10b981" fill-opacity="0.12" stroke="#10b981" stroke-opacity="0.38" stroke-width="1"/>
+  <circle cx="46" cy="66.5" r="3.5" fill="#34d399">
+    <animate attributeName="r" values="3.2;4.6;3.2" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="57" y="70.5" fill="#34d399" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="10.5" font-weight="700" letter-spacing="1.1">
+    BLUE TEAM &#x2022; DFIR &#x2022; ENTERPRISE SYSADMIN &#x2022; AI SEC
+  </text>
+
+  <!-- Main Heading -->
+  <text x="32" y="118" fill="#f1f8f7" font-family="'Plus Jakarta Sans', 'Segoe UI', Inter, -apple-system, sans-serif" font-size="34" font-weight="800" letter-spacing="-0.6">
+    Hi, I&#x2019;m <tspan fill="url(#nameGrad)">Tan Phat Nguyen</tspan>
+    <tspan fill="#6c8886" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="19" font-weight="600"> (@phat0x8)</tspan>
+  </text>
+
+  <!-- Subtitle -->
+  <text x="32" y="148" fill="#d4e6e4" font-family="'Segoe UI', Inter, -apple-system, sans-serif" font-size="14.5" font-weight="500">
+    Information Security Engineer bridging <tspan fill="#34d399" font-weight="700">Enterprise System Administration</tspan>, <tspan fill="#38bdf8" font-weight="700">DFIR Investigations</tspan>,
+  </text>
+  <text x="32" y="170" fill="#98b4b1" font-family="'Segoe UI', Inter, -apple-system, sans-serif" font-size="14" font-weight="400">
+    <tspan fill="#fbbf24" font-weight="600">OWASP Top 10 Hardening</tspan>, and <tspan fill="#34d399" font-weight="600">AI-driven Cyber Threat Intelligence (MITRE ATT&amp;CK / SecBERT)</tspan>.
+  </text>
+
+  <!-- Bottom Telemetry Bar -->
+  <line x1="32" y1="196" x2="670" y2="196" stroke="#1d323c" stroke-width="1" stroke-dasharray="4 4"/>
+
+  <rect x="32" y="207" width="176" height="24" rx="6" fill="#0b1318" stroke="#1d323c" stroke-width="1"/>
+  <text x="43" y="223" fill="#d4e6e4" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="10.5" font-weight="600">
+    <tspan fill="#34d399">LOC:</tspan> HCMC, Vietnam
+  </text>
+
+  <rect x="218" y="207" width="194" height="24" rx="6" fill="#0b1318" stroke="#1d323c" stroke-width="1"/>
+  <text x="229" y="223" fill="#d4e6e4" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="10.5" font-weight="600">
+    <tspan fill="#38bdf8">EDU:</tspan> FPT University (IA)
+  </text>
+
+  <rect x="422" y="207" width="246" height="24" rx="6" fill="#0b1318" stroke="#1d323c" stroke-width="1"/>
+  <text x="433" y="223" fill="#d4e6e4" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="10.5" font-weight="600">
+    <tspan fill="#fbbf24">PUB:</tspan> IEEE ICEEIS &#x2019;26 (#228)
+  </text>
+
+  <!-- Right Cyber Radar Hex Module -->
+  <g transform="translate(778, 138)">
+    <!-- Outer Frame Box -->
+    <rect x="-82" y="-76" width="164" height="152" rx="14" fill="#091116" fill-opacity="0.82" stroke="#10b981" stroke-opacity="0.35" stroke-width="1.2"/>
+
+    <!-- Radar Rings -->
+    <circle cx="0" cy="-6" r="54" stroke="#10b981" stroke-opacity="0.24" stroke-width="1" stroke-dasharray="4 4"/>
+    <circle cx="0" cy="-6" r="36" stroke="#38bdf8" stroke-opacity="0.28" stroke-width="1" stroke-dasharray="3 3"/>
+
+    <!-- Rotating Radar Crosshair / Sweep -->
+    <g transform="translate(0, -6)">
+      <line x1="0" y1="0" x2="0" y2="-52" stroke="#34d399" stroke-width="1.8" stroke-linecap="round" stroke-opacity="0.85">
+        <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="6s" repeatCount="indefinite"/>
+      </line>
+      <circle cx="0" cy="-36" r="2.8" fill="#38bdf8">
+        <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="6s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- Hex Shield Core -->
+    <path d="M 0 -30 L 22 -18 L 22 6 L 0 18 L -22 6 L -22 -18 Z" fill="#0d1e22" stroke="#34d399" stroke-width="2"/>
+    <path d="M -8 -6 L -2 0 L 10 -12" stroke="#38bdf8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <!-- Bottom Pill in Radar Box -->
+    <rect x="-64" y="42" width="128" height="20" rx="5" fill="#10b981" fill-opacity="0.14" stroke="#10b981" stroke-opacity="0.4" stroke-width="1"/>
+    <text x="0" y="55.5" text-anchor="middle" fill="#34d399" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" font-size="9.5" font-weight="700" letter-spacing="1">
+      PHAT0X8.SEC // HUD
+    </text>
+  </g>
+</svg>
