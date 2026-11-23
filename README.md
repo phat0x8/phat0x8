@@ -2,10 +2,10 @@
 
 # Hi there, I'm Tan Phat Nguyen (`@phat0x8`) 👋
 
-### 🛡️ Information Security Engineer | DFIR • Cyber Threat Intelligence • Binary & Web Application Security
+### 🛡️ Information Security Engineer | DFIR • Enterprise SysAdmin & IT Support • CTI • Web & Binary Security
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2EA44F&center=true&vCenter=true&width=780&lines=Information+Assurance+%40+FPT+University+HCMC;Digital+Forensics+%26+Incident+Response+(DFIR);Cyber+Threat+Intelligence+(MITRE+ATT%26CK+%2F+SecBERT);Binary+Reverse+Engineering+%26+AI+Security+Auditing;Web+Application+Security+%26+OWASP+Top+10+Hardening" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2EA44F&center=true&vCenter=true&width=780&lines=Information+Assurance+%40+FPT+University+HCMC;Enterprise+IT+Support+%26+Junior+SysAdmin+(Nov+2025+--+Present);Digital+Forensics+%26+Incident+Response+(DFIR);Cyber+Threat+Intelligence+(MITRE+ATT%26CK+%2F+SecBERT);Binary+Reverse+Engineering+%26+AI+Security+Auditing;Web+Application+Security+%26+OWASP+Top+10+Hardening" alt="Typing SVG" />
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tan%20Phat%20Nguyen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tan-phat-nguyen-6a4860252/)
@@ -19,6 +19,7 @@
 ## 🚀 About Me
 
 - 🎓 **Education:** Senior Information Assurance (Cybersecurity) student at **FPT University** (Ho Chi Minh City, Vietnam).
+- 🏢 **Production Experience:** **IT Support & Junior System Administrator** (**Nov 2025 – Present**) supporting a multi-site enterprise environment (Corporate HQ, Retail Showrooms & Manufacturing Plants) across **Windows Server 2022**, **Active Directory**, **Microsoft Entra ID / Intune**, **Microsoft 365**, **SQL Server**, multi-site WiFi/VPN infrastructure, and IT Asset/License Compliance Auditing.
 - 🕵️‍♂️ **Current Focus:** Digital Forensics & Incident Response (**DFIR**), Automated Cyber Threat Intelligence (**CTI / MITRE ATT&CK**), **Binary Reverse Engineering / LLM Security Auditing**, and **Web Application Security (OWASP Top 10)**.
 - 🔬 **Research & Engineering:** Passionate about bridging low-level systems security (`x86_64` stripped PE binaries, file system internals `FAT12`/`NTFS`, Windows Registry/Event forensics) with modern AI-driven security automation (**SecBERT**, differential binary mutation benchmarks) and defense-in-depth web architecture.
 - 💻 **Forensic & DevSecOps Lab Environment:** Daily practitioner on **Kali Linux Rolling (`2025.4` / `2026.3`)**, Dockerized Linux servers, Cloudflare Zero Trust Tunnels, and isolated Windows/Linux forensic virtual machines on **VMware Workstation Pro**.
@@ -39,6 +40,18 @@
   <img src="https://img.shields.io/badge/Hashcat_%2F_Mimikatz-333333?style=for-the-badge&logo=gnubash&logoColor=white" alt="Hashcat" />
   <img src="https://img.shields.io/badge/MITRE_ATT%26CK-C8102E?style=for-the-badge&logo=security&logoColor=white" alt="MITRE ATT&CK" />
   <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP Top 10" />
+</p>
+
+### 🏢 Enterprise Systems, Identity & Infrastructure Operations
+<p align="left">
+  <img src="https://img.shields.io/badge/Windows_Server_2022-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
+  <img src="https://img.shields.io/badge/Active_Directory_%2F_GPO-005A9E?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory" />
+  <img src="https://img.shields.io/badge/Microsoft_Entra_ID_%2F_Intune-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Entra ID & Intune" />
+  <img src="https://img.shields.io/badge/Microsoft_365_Admin-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft 365" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/SQL_Server_%2F_SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Barracuda_%2F_Azure_VPN-00558C?style=for-the-badge&logo=openvpn&logoColor=white" alt="Enterprise VPN" />
+  <img src="https://img.shields.io/badge/Ruijie_%2F_TP--Link_%2F_DrayTek-1A73E8?style=for-the-badge&logo=ubiquiti&logoColor=white" alt="Networking" />
 </p>
 
 ### 💻 Languages, Frameworks & DevSecOps
@@ -63,6 +76,7 @@
 
 | Repository | Security Domain | Technical Highlights |
 | :--- | :--- | :--- |
+| 🏢 [**Enterprise-IT-Operations-Casebook**](https://github.com/phat0x8/Enterprise-IT-Operations-Casebook) | **Enterprise SysAdmin, IT Support & InfoSec Ops** | **Nov 2025 – Present** (100% OPSEC-sanitized) — Multi-site IT operations (**Aug–Nov 2026** detailed logs + **132 archived sessions / 90+ hrs**): Hybrid AD/Entra ID Dual-SID Temp Profile RCA (`56 min` MTTR, `0%` data loss), SQL Server 2022 TCP/IP & ERP T-SQL sync, factory WiFi redesign, company-wide Asset/MAC/License Audit, hardened SOPs & Python/FFmpeg automation (`-80%` storage). |
 | 🔬 [**IAM302t_SCHR_Bench**](https://github.com/phat0x8/IAM302t_SCHR_Bench) | **Binary Reverse Engineering & AI Security** | Differential mutation benchmark evaluating security-critical hallucinations in LLM-assisted binary decompilation across 80 stripped `x86_64` PE executables and 1,020 evaluations (Springer LNICST). |
 | 🕵️‍♂️ [**DFIR-Forensics-Casebook**](https://github.com/phat0x8/DFIR-Forensics-Casebook) | **Digital Forensics & Incident Response (DFIR)** | 15 end-to-end forensic investigations (**285 verified artifacts**) on **Kali Linux `2025.4`/`2026.3`** covering the **NIST CFReDS Data Leakage** case, TSK, Registry, `$UsnJrnl`, `.ost` Email & Android SQLite. |
 | ✈️ [**GetApps-Travel-Platform**](https://github.com/phat0x8/GetApps-Travel-Platform) | **Web Application Security & DevSecOps (OWASP Top 10)** | Production travel social network & multi-day itinerary platform ([ges.id.vn](https://ges.id.vn)) with **26 SQLAlchemy tables**, proxy-aware **DDoS/Brute-Force Rate Limiting** (`Flask-Limiter`), **SOC Security Audit Dashboard** (`/admin/security-logs`), Bleach XSS/CSP, SSRF-safe GeoCheck, Docker & Cloudflare Zero Trust Tunnel (**151/151 Pytest PASS**). |
