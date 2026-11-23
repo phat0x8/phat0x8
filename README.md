@@ -1,3 +1,5 @@
+  <a href="https://phat0x8.nt-portfolio.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-phat0x8.nt--portfolio.workers.dev-10B981?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portfolio" /></a>
+
 <div align="center">
 
 # Hi there, I'm Tan Phat Nguyen (`@phat0x8`) 👋
